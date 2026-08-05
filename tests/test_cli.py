@@ -1,6 +1,6 @@
 import pytest
 
-from PyNoto import cli
+from PyTodo import cli
 
 
 @pytest.fixture(autouse=True)

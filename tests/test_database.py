@@ -1,7 +1,7 @@
 import pytest
 
-from PyNoto.database import Database
-from PyNoto.models import Priority, Todo
+from PyTodo.database import Database
+from PyTodo.models import Priority, Todo
 
 
 @pytest.fixture
